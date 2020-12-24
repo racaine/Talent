@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="us_citizen" table="x_174721_talent_ex_participant_data" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>us_citizen</element>
+            <name>x_174721_talent_ex_participant_data</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-10 00:17:13</sys_created_on>
+            <sys_id>92a80720db45e010c71f28df4b961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>us_citizen</sys_name>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_174721_talent_ex_participant_data_us_citizen</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-10 00:17:13</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>us_citizen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_participant_data</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-10 00:17:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c88c720db45e010c71f28df4b961988</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 19:12:54</sys_updated_on>
+            <value>Yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>us_citizen</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_participant_data</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-10 00:17:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9aa8cfecdb05e010c71f28df4b961999</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 19:12:58</sys_updated_on>
+            <value>No</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

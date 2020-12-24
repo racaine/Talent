@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state_work_location" table="x_174721_talent_ex_vacancy" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state_work_location</element>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:46:58</sys_created_on>
+            <sys_id>b32aefd7dbc1a010c71f28df4b9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state_work_location</sys_name>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_174721_talent_ex_vacancy_state_work_location</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:46:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Alabama</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:46:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69086b1bdbc1a010c71f28df4b961973</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:47:41</sys_updated_on>
+            <value>Alabama</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Alaska</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:47:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b2a6b1bdbc1a010c71f28df4b96194a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:51:31</sys_updated_on>
+            <value>Alaska</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Arizona</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:50:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89eaef5bdbc1a010c71f28df4b961925</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:51:47</sys_updated_on>
+            <value>Arizona</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Arkansas</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:52:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>364b639bdbc1a010c71f28df4b9619ed</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:52:09</sys_updated_on>
+            <value>Arkansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>California</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:52:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e95b2b9bdbc1a010c71f28df4b961920</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:52:23</sys_updated_on>
+            <value>California</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Colorado</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:52:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>696b2b9bdbc1a010c71f28df4b961921</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:52:42</sys_updated_on>
+            <value>Colorado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Connecticut</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:52:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>167beb9bdbc1a010c71f28df4b9619c2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:53:01</sys_updated_on>
+            <value>Connecticut</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delaware</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:53:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d28baf9bdbc1a010c71f28df4b9619aa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:53:19</sys_updated_on>
+            <value>Delaware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DC</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:13:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1030775fdbc1a010c71f28df4b96193a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:13:40</sys_updated_on>
+            <value>District of Columbia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Florida</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:53:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>539baf9bdbc1a010c71f28df4b9619ab</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:53:35</sys_updated_on>
+            <value>Florida</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Georgia</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:53:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cbab639bdbc1a010c71f28df4b961916</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:53:50</sys_updated_on>
+            <value>Georgia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hawaii</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:53:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2bb639bdbc1a010c71f28df4b9619ef</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:54:06</sys_updated_on>
+            <value>Hawaii</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Idaho</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:54:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ecbeb9bdbc1a010c71f28df4b9619cb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:54:19</sys_updated_on>
+            <value>Idaho</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Illinois</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:54:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5adba3dbdbc1a010c71f28df4b96191d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:54:40</sys_updated_on>
+            <value>Illinois</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indiana</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:54:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2ebeb9bdbc1a010c71f28df4b9619eb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:54:55</sys_updated_on>
+            <value>Indiana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Iowa</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:55:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6efb2b9bdbc1a010c71f28df4b961900</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:55:28</sys_updated_on>
+            <value>Iowa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kansas</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:55:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa1c2b9bdbc1a010c71f28df4b961901</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:55:45</sys_updated_on>
+            <value>Kansas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kentucky</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:55:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3e2c23dbdbc1a010c71f28df4b9619aa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:56:02</sys_updated_on>
+            <value>Kentucky</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Louisiana</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:56:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>473c2b9bdbc1a010c71f28df4b961909</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:56:24</sys_updated_on>
+            <value>Louisiana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maine</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:56:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d05c2b9bdbc1a010c71f28df4b96190a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:56:36</sys_updated_on>
+            <value>Maine</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maryland</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:56:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef5caf9bdbc1a010c71f28df4b9619e4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:56:50</sys_updated_on>
+            <value>Maryland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Massachusetts</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:57:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f66ca3dbdbc1a010c71f28df4b96195d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:57:11</sys_updated_on>
+            <value>Massachusetts</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Michigan</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:57:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>677ca3dbdbc1a010c71f28df4b96195e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:57:24</sys_updated_on>
+            <value>Michigan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minnesota</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:57:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f8caf9bdbc1a010c71f28df4b9619e5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:57:43</sys_updated_on>
+            <value>Minnesota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mississippi</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:57:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a39cef9bdbc1a010c71f28df4b9619aa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:57:59</sys_updated_on>
+            <value>Mississippi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Missouri</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:59:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04cca3dbdbc1a010c71f28df4b961960</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:59:17</sys_updated_on>
+            <value>Missouri</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Montana</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:59:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eefce7dbdbc1a010c71f28df4b96197a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:59:29</sys_updated_on>
+            <value>Montana</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nebraska</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:59:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>710dafdbdbc1a010c71f28df4b961961</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:59:51</sys_updated_on>
+            <value>Nebraska</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nevada</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:59:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>221d6bdbdbc1a010c71f28df4b9619dc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:00:06</sys_updated_on>
+            <value>Nevada</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Hampshire</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:00:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa2d6bdbdbc1a010c71f28df4b961964</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:00:48</sys_updated_on>
+            <value>New Hampshire</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Jersey</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:01:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d74d6fdbdbc1a010c71f28df4b96195d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:01:23</sys_updated_on>
+            <value>New Jersey</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Mexico</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:01:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>517da3dbdbc1a010c71f28df4b961962</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:01:41</sys_updated_on>
+            <value>New Mexico</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New York</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:01:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd8da3dbdbc1a010c71f28df4b961962</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:01:56</sys_updated_on>
+            <value>New York</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>North Carolina</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:02:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>299d6bdbdbc1a010c71f28df4b961965</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:02:20</sys_updated_on>
+            <value>North Carolina</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>North Dakota</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:02:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96ad6bdbdbc1a010c71f28df4b961966</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:02:39</sys_updated_on>
+            <value>North Dakota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ohio</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:02:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77bde7dbdbc1a010c71f28df4b961981</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:02:51</sys_updated_on>
+            <value>Ohio</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oklahoma</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:03:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bcde7dbdbc1a010c71f28df4b961925</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:03:29</sys_updated_on>
+            <value>Oklahoma</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Oregon</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:03:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6fdebdbdbc1a010c71f28df4b96196f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:03:56</sys_updated_on>
+            <value>Oregon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Penn</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:04:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a0e671fdbc1a010c71f28df4b96190d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:04:10</sys_updated_on>
+            <value>Pennsylvania</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rhode Island</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:04:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f11e6b1fdbc1a010c71f28df4b9619cf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:04:59</sys_updated_on>
+            <value>Rhode Island</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>South Carolina</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:06:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a2eefdbdbc1a010c71f28df4b9619e5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:07:12</sys_updated_on>
+            <value>South Carolina</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>South Dakota</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:08:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcce6b1fdbc1a010c71f28df4b9619c3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:08:33</sys_updated_on>
+            <value>South Dakota</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tenn</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:08:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce1f631fdbc1a010c71f28df4b9619d9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:08:53</sys_updated_on>
+            <value>Tennessee</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Texas</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:09:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd2f275fdbc1a010c71f28df4b9619a2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:09:34</sys_updated_on>
+            <value>Texas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Utah</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:09:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>723f6b1fdbc1a010c71f28df4b96190d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:09:47</sys_updated_on>
+            <value>Utah</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vermont</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:11:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c6f271fdbc1a010c71f28df4b9619d7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:11:26</sys_updated_on>
+            <value>Vermont</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Virginia</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:11:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05cfe75fdbc1a010c71f28df4b96194b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:11:49</sys_updated_on>
+            <value>Virginia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Washington</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:11:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1dfe75fdbc1a010c71f28df4b96194c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:12:04</sys_updated_on>
+            <value>Washington</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>West Virginia</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:12:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6efefdbdbc1a010c71f28df4b9619e7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:12:38</sys_updated_on>
+            <value>West Virginia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wisconsin</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:13:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5410375fdbc1a010c71f28df4b9619d3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:13:06</sys_updated_on>
+            <value>Wisconsin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_work_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wyoming</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 16:13:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9120775fdbc1a010c71f28df4b961939</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:13:20</sys_updated_on>
+            <value>Wyoming</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

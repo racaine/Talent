@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Company/Agency</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_174721_talent_ex_company_agency2</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-19 13:18:15</sys_created_on>
+        <sys_id>b451183bdbcda010c71f28df4b961961</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company/Agency</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sys_db_object_b451183bdbcda010c71f28df4b961961</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-19 13:18:15</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_174721_talent_ex.user" name="x_174721_talent_ex.user">50eb7ae4db05e010c71f28df4b961988</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</application>
+        <file_path/>
+        <instance_id>3ab3de77db3fa3000b9d21c405961973</instance_id>
+        <instance_name>dev73981</instance_name>
+        <name>sys_db_object_b451183bdbcda010c71f28df4b961961</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Company/Agency</label><live_feed_enabled>false</live_feed_enabled><name>x_174721_talent_ex_company_agency2</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-19 13:18:15</sys_created_on><sys_id>b451183bdbcda010c71f28df4b961961</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Company/Agency</sys_name><sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package><sys_policy/><sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope><sys_update_name>sys_db_object_b451183bdbcda010c71f28df4b961961</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-19 13:18:15</sys_updated_on><update_access>false</update_access><user_role display_value="x_174721_talent_ex.user" name="x_174721_talent_ex.user">50eb7ae4db05e010c71f28df4b961988</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-941290321</payload_hash>
+        <record_name>Company/Agency</record_name>
+        <reverted_from/>
+        <source>cabb7717db05a010c71f28df4b9619f1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-19 13:18:16</sys_created_on>
+        <sys_id>dbb15c3bdbcda010c71f28df4b961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1767b269c750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-19 13:18:16</sys_updated_on>
+        <type>Table</type>
+        <update_guid>17b15c3bf5cda01083298d66fe32c824</update_guid>
+        <update_guid_history>17b15c3bf5cda01083298d66fe32c824:-941290321</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-19 13:20:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>0a319d94f1814ded80751baa99fbc579</sys_id>
+        <sys_metadata>b451183bdbcda010c71f28df4b961961</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company/Agency</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_scope_delete display_value="">59e71091ac3c4738b158cd53c3376c89</sys_scope_delete>
+        <sys_update_name>sys_db_object_b451183bdbcda010c71f28df4b961961</sys_update_name>
+        <sys_update_version display_value="sys_db_object_b451183bdbcda010c71f28df4b961961">dbb15c3bdbcda010c71f28df4b961924</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-19 13:20:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

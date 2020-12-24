@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Participant data" max_length="40" name="x_174721_talent_ex_participant_data" sizeclass="0" text_index="true" type="collection">
+        <element label="Affiliation" mandatory="true" max_length="40" name="affiliation" type="string"/>
+        <element label="Company/Organization" mandatory="true" max_length="40" name="company_organization" reference="x_174721_talent_ex_company_agency" reference_qual="company_nameSTARTSWITH^EQ" reference_qual_condition="company_nameSTARTSWITH^EQ" type="reference"/>
+        <element label="E-Mail" mandatory="true" max_length="40" name="e_mail" type="string"/>
+        <element label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element label="Middle initial" max_length="1" name="middle_initial" type="string"/>
+        <element label="Personel Statement" mandatory="true" max_length="1000" name="personel_statement" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element label="Preferred Name" max_length="40" name="preferred_name" type="string"/>
+        <element label="Qualification Information" mandatory="true" max_length="1000" name="qualification_information" type="string"/>
+        <element label="Skills" max_length="20" name="skill_1" type="string"/>
+        <element label="Certifications" max_length="60" name="skill_2" type="string"/>
+        <element label="Skill 3" max_length="20" name="skill_3" type="string"/>
+        <element label="Skill 4" max_length="20" name="skill_4" type="string"/>
+        <element label="Supervisor Name" max_length="40" name="supervisor" type="string"/>
+        <element label="Supervisor E-Mail" max_length="40" name="supervisor_e_mail" type="string"/>
+        <element label="Supervisor Phone" max_length="12" name="supervisor_phone" type="integer"/>
+        <element choice="3" default="No" display="true" label="US Citizen" mandatory="true" max_length="3" name="us_citizen" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="1" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="2" value="No"/>
+            </choice>
+        </element>
+    </element>
+</database>

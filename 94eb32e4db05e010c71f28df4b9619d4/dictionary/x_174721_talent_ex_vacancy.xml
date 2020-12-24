@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Vacancy" max_length="40" name="x_174721_talent_ex_vacancy" sizeclass="1" text_index="true" type="collection">
+        <element label="Agency/Company" mandatory="true" max_length="40" name="agency_company" type="string"/>
+        <element label="City Work Location" mandatory="true" max_length="30" name="city_work_location" type="string"/>
+        <element default="Choose from the list of registered Agencies or Companies" dependent="agency_company" dependent_on_field="agency_company" label="Company" mandatory="true" max_length="40" name="company" reference="x_174721_talent_ex_company_agency" reference_qual="company_nameSTARTSWITH^EQ" reference_qual_condition="company_nameSTARTSWITH^EQ" type="reference" use_dependent_field="true"/>
+        <element choice="1" label="Foreign Language Requirement" mandatory="true" max_length="20" name="foreign_language_requirement" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Dutch" value="Dutch"/>
+                <element inactive_on_update="false" label="German" value="German"/>
+                <element inactive_on_update="false" label="Italian" value="Italian"/>
+                <element inactive_on_update="false" label="None Required" value="Non Required"/>
+                <element inactive_on_update="false" label="Spanish" value="Spanish"/>
+            </choice>
+        </element>
+        <element label="Other Qualifications" max_length="100" name="minimum_qualifications" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Vacancy #" mandatory="true" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Other Conditions" max_length="100" name="other_conditions" type="string"/>
+        <element choice="1" label="Poly Graph Requirement" max_length="40" name="poly_graph_requirement" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="None Required" sequence="1" value="None Required"/>
+                <element inactive_on_update="false" label="CI" sequence="2" value="CI"/>
+                <element inactive_on_update="false" label="FS" sequence="3" value="FS"/>
+            </choice>
+        </element>
+        <element label="Position POC" mandatory="true" max_length="40" name="position_poc1" type="string"/>
+        <element label="Position POC E-Mail" mandatory="true" max_length="40" name="position_poc1_e_mail" type="string"/>
+        <element label="Position POC Unclassified Phone" mandatory="true" max_length="40" name="position_poc1_unclassified_phone" type="string"/>
+        <element label="Position Title" mandatory="true" max_length="40" name="position_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Position type" mandatory="true" max_length="40" name="position_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Full Time" value="Full time"/>
+                <element inactive_on_update="false" label="Internship" value="Internship"/>
+                <element inactive_on_update="false" label="Part Time" value="Part Time"/>
+            </choice>
+        </element>
+        <element choice="1" label="Reimbursable Position " mandatory="true" max_length="20" name="reimbursable_position" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="1" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="2" value="No"/>
+                <element inactive_on_update="false" label="To Be Determined" sequence="3" value="To Be Determined"/>
+            </choice>
+        </element>
+        <element choice="1" label="Security Clearance Requirement" mandatory="true" max_length="40" name="security_clearance_requirement" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Secret" value="Secret"/>
+                <element inactive_on_update="false" label="Top Secret" value="Top Secret"/>
+                <element inactive_on_update="false" label="Top Secret SCI" value="Top Secret SCI"/>
+            </choice>
+        </element>
+        <element choice="1" label="Skill Level" mandatory="true" max_length="20" name="skill_level" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Entry Level" value="Entry Level"/>
+                <element inactive_on_update="false" label="Expert Level" value="Expert Level"/>
+                <element inactive_on_update="false" label="Management" value="Management"/>
+                <element inactive_on_update="false" label="Senior Level" value="Senior Level"/>
+            </choice>
+        </element>
+        <element choice="1" label="State Work Location" mandatory="true" max_length="25" name="state_work_location" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Alabama" value="Alabama"/>
+                <element inactive_on_update="false" label="Alaska" value="Alaska"/>
+                <element inactive_on_update="false" label="Arizona" value="Arizona"/>
+                <element inactive_on_update="false" label="Arkansas" value="Arkansas"/>
+                <element inactive_on_update="false" label="California" value="California"/>
+                <element inactive_on_update="false" label="Colorado" value="Colorado"/>
+                <element inactive_on_update="false" label="Connecticut" value="Connecticut"/>
+                <element inactive_on_update="false" label="DC" value="District of Columbia"/>
+                <element inactive_on_update="false" label="Delaware" value="Delaware"/>
+                <element inactive_on_update="false" label="Florida" value="Florida"/>
+                <element inactive_on_update="false" label="Georgia" value="Georgia"/>
+                <element inactive_on_update="false" label="Hawaii" value="Hawaii"/>
+                <element inactive_on_update="false" label="Idaho" value="Idaho"/>
+                <element inactive_on_update="false" label="Illinois" value="Illinois"/>
+                <element inactive_on_update="false" label="Indiana" value="Indiana"/>
+                <element inactive_on_update="false" label="Iowa" value="Iowa"/>
+                <element inactive_on_update="false" label="Kansas" value="Kansas"/>
+                <element inactive_on_update="false" label="Kentucky" value="Kentucky"/>
+                <element inactive_on_update="false" label="Louisiana" value="Louisiana"/>
+                <element inactive_on_update="false" label="Maine" value="Maine"/>
+                <element inactive_on_update="false" label="Maryland" value="Maryland"/>
+                <element inactive_on_update="false" label="Massachusetts" value="Massachusetts"/>
+                <element inactive_on_update="false" label="Michigan" value="Michigan"/>
+                <element inactive_on_update="false" label="Minnesota" value="Minnesota"/>
+                <element inactive_on_update="false" label="Mississippi" value="Mississippi"/>
+                <element inactive_on_update="false" label="Missouri" value="Missouri"/>
+                <element inactive_on_update="false" label="Montana" value="Montana"/>
+                <element inactive_on_update="false" label="Nebraska" value="Nebraska"/>
+                <element inactive_on_update="false" label="Nevada" value="Nevada"/>
+                <element inactive_on_update="false" label="New Hampshire" value="New Hampshire"/>
+                <element inactive_on_update="false" label="New Jersey" value="New Jersey"/>
+                <element inactive_on_update="false" label="New Mexico" value="New Mexico"/>
+                <element inactive_on_update="false" label="New York" value="New York"/>
+                <element inactive_on_update="false" label="North Carolina" value="North Carolina"/>
+                <element inactive_on_update="false" label="North Dakota" value="North Dakota"/>
+                <element inactive_on_update="false" label="Ohio" value="Ohio"/>
+                <element inactive_on_update="false" label="Oklahoma" value="Oklahoma"/>
+                <element inactive_on_update="false" label="Oregon" value="Oregon"/>
+                <element inactive_on_update="false" label="Penn" value="Pennsylvania"/>
+                <element inactive_on_update="false" label="Rhode Island" value="Rhode Island"/>
+                <element inactive_on_update="false" label="South Carolina" value="South Carolina"/>
+                <element inactive_on_update="false" label="South Dakota" value="South Dakota"/>
+                <element inactive_on_update="false" label="Tenn" value="Tennessee"/>
+                <element inactive_on_update="false" label="Texas" value="Texas"/>
+                <element inactive_on_update="false" label="Utah" value="Utah"/>
+                <element inactive_on_update="false" label="Vermont" value="Vermont"/>
+                <element inactive_on_update="false" label="Virginia" value="Virginia"/>
+                <element inactive_on_update="false" label="Washington" value="Washington"/>
+                <element inactive_on_update="false" label="West Virginia" value="West Virginia"/>
+                <element inactive_on_update="false" label="Wisconsin" value="Wisconsin"/>
+                <element inactive_on_update="false" label="Wyoming" value="Wyoming"/>
+            </choice>
+        </element>
+        <element choice="1" label="Travel Percentage" mandatory="true" max_length="40" name="travel_percentage" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="None" sequence="1" value="None"/>
+                <element inactive_on_update="false" label="25%" sequence="2" value="Up to 25%"/>
+                <element inactive_on_update="false" label="50%" sequence="3" value="Up to 50%"/>
+                <element inactive_on_update="false" label="75%" sequence="4" value="Up to 75%"/>
+                <element inactive_on_update="false" label="100%" sequence="5" value="Up to 100%"/>
+            </choice>
+        </element>
+        <element label="Work Category" max_length="30" name="work_category" type="glide_list"/>
+        <element label="Work Description" max_length="200" name="work_description" type="string"/>
+        <element label="Work End Date" max_length="40" name="work_end_date" type="glide_date"/>
+        <element label="Work Start Date" max_length="40" name="work_start_date" type="glide_date"/>
+    </element>
+</database>

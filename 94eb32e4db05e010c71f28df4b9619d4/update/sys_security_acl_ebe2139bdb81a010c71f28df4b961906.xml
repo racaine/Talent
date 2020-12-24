@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_174721_talent_ex_vacancy</description>
+        <name>x_174721_talent_ex_vacancy</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 14:05:22</sys_created_on>
+        <sys_id>ebe2139bdb81a010c71f28df4b961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_174721_talent_ex_vacancy</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sys_security_acl_ebe2139bdb81a010c71f28df4b961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 14:05:22</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

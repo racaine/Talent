@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rel_widget_clone">
+    <sp_rel_widget_clone action="INSERT_OR_UPDATE">
+        <child display_value="Talent Exchange Unordered List">9adb9930db1d6410c71f28df4b96194f</child>
+        <cloned>2020-12-22 21:15:59</cloned>
+        <last_validated>2020-12-22 21:15:59</last_validated>
+        <parent display_value="Unordered List">489a4b1bcb13020000f8d856634c9c67</parent>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;sp_widget&gt;&lt;category&gt;standard&lt;/category&gt;&lt;client_script/&gt;&lt;controller_as/&gt;&lt;css&gt;.simple-ul h3 {
+  border-bottom: 1px solid #ccc;
+  font-weight: 300;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.simple-ul ul {
+  list-style: none;
+}
+
+.simple-ul li {
+  padding: 10px 0;
+}&lt;/css&gt;&lt;data_table&gt;sp_instance_vlist&lt;/data_table&gt;&lt;demo_data/&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list&gt;table,filter,maximum_entries,display_field,order_by,order_direction,title,color,class_name,sp_page,order&lt;/field_list&gt;&lt;has_preview&gt;false&lt;/has_preview&gt;&lt;id/&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link/&gt;&lt;name&gt;Unordered List&lt;/name&gt;&lt;option_schema/&gt;&lt;public&gt;true&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {
+	if (!options.table)
+		return;
+	
+	data.sp_page = $sp.getDisplayValue('sp_page'); // gets the page's ID
+	var gr = new GlideRecordSecure(options.table); 
+	if (options.filter)
+		gr.addEncodedQuery(options.filter);
+
+	if (options.order_direction == "asc")
+		gr.orderBy(options.order_by);
+	else
+		gr.orderByDesc(options.order_by);
+
+	gr.setLimit(options.maximum_entries);
+	gr.query();
+	data.list = [];
+	while (gr.next()) {
+		var record = {};
+		record.sys_id = gr.getValue('sys_id');
+		if (options.display_field)
+			record.display_field = gr.getDisplayValue(options.display_field);
+
+		if (data.sp_page)
+			record.url = "?id=" + data.sp_page + "&amp;table=" + options.table + "&amp;sys_id=" + record.sys_id + "&amp;view=sp";
+		else
+			record.url = "";
+
+		data.list.push(record);
+	}
+})()]]&gt;&lt;/script&gt;&lt;servicenow&gt;true&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2015-10-29 23:58:33&lt;/sys_created_on&gt;&lt;sys_id&gt;489a4b1bcb13020000f8d856634c9c67&lt;/sys_id&gt;&lt;sys_mod_count&gt;24&lt;/sys_mod_count&gt;&lt;sys_name&gt;Unordered List&lt;/sys_name&gt;&lt;sys_package display_value="Service Portal - Core" source="com.glide.service-portal"&gt;5e67bfc4c967101091f9f0646483279d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_489a4b1bcb13020000f8d856634c9c67&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-08-24 19:18:16&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;div class="simple-ul"&gt;
+  &lt;h3&gt;{{options.title}}&lt;/h3&gt;
+  &lt;ul class="list-group"&gt;
+    &lt;li ng-repeat="item in data.list"&gt;
+      &lt;a ng-href="{{item.url}}"&gt;
+        {{item.display_field}}
+      &lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;</payload>
+        <sys_class_name>sp_rel_widget_clone</sys_class_name>
+        <sys_created_by>mcarnie</sys_created_by>
+        <sys_created_on>2020-12-22 21:15:59</sys_created_on>
+        <sys_id>16db9930db1d6410c71f28df4b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9adb9930db1d6410c71f28df4b96194f</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sp_rel_widget_clone_16db9930db1d6410c71f28df4b961952</sys_update_name>
+        <sys_updated_by>mcarnie</sys_updated_by>
+        <sys_updated_on>2020-12-22 21:15:59</sys_updated_on>
+    </sp_rel_widget_clone>
+</record_update>

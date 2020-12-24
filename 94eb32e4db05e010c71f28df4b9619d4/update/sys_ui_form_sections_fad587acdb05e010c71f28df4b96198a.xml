@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="fad587acdb05e010c71f28df4b96198a" sys_domain="global" table="x_174721_talent_ex_participant_data" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-10 00:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fed587acdb05e010c71f28df4b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_174721_talent_ex_participant_data" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">fad587acdb05e010c71f28df4b96198a</sys_ui_form>
+            <sys_ui_section caption="Candidate Information" display_value="Candidate Information" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">e4418fa8db05e010c71f28df4b96194e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-10 00:04:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 17:43:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d9f4002fdb05a010c71f28df4b96198f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_174721_talent_ex_participant_data" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">fad587acdb05e010c71f28df4b96198a</sys_ui_form>
+            <sys_ui_section caption="Employment" display_value="Employment" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">9df4002fdb05a010c71f28df4b96198c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 17:43:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-10 00:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fad587acdb05e010c71f28df4b9619cc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_174721_talent_ex_participant_data" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">fad587acdb05e010c71f28df4b96198a</sys_ui_form>
+            <sys_ui_section caption="Candidate Skills" display_value="Candidate Skills" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">bed587acdb05e010c71f28df4b961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 17:43:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-10 00:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36d587acdb05e010c71f28df4b9619d0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_174721_talent_ex_participant_data" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">fad587acdb05e010c71f28df4b96198a</sys_ui_form>
+            <sys_ui_section caption="Candidate Statements" display_value="Candidate Statements" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">bad587acdb05e010c71f28df4b961989</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 17:43:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_174721_talent_ex_participant_data</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-10 00:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fad587acdb05e010c71f28df4b96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_174721_talent_ex_participant_data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_ui_form_sections_fad587acdb05e010c71f28df4b96198a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-10 00:04:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

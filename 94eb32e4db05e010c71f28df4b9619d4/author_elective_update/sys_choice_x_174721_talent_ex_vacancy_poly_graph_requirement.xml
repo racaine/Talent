@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="poly_graph_requirement" table="x_174721_talent_ex_vacancy" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>poly_graph_requirement</element>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:35:16</sys_created_on>
+            <sys_id>1887631bdbc1a010c71f28df4b9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>poly_graph_requirement</sys_name>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_174721_talent_ex_vacancy_poly_graph_requirement</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:35:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>poly_graph_requirement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>None Required</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:36:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a97231bdbc1a010c71f28df4b961997</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:36:28</sys_updated_on>
+            <value>None Required</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>poly_graph_requirement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CI</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:35:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9977afd7dbc1a010c71f28df4b961996</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:36:21</sys_updated_on>
+            <value>CI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>poly_graph_requirement</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FS</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 15:35:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0876fd7dbc1a010c71f28df4b96190c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 15:36:24</sys_updated_on>
+            <value>FS</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

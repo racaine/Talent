@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="work_category" table="x_174721_talent_ex_vacancy" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>work_category</element>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 14:31:10</sys_created_on>
+            <sys_id>a9d89b5fdb81a010c71f28df4b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>work_category</sys_name>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_174721_talent_ex_vacancy_work_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 14:31:10</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Collection &amp; Operations</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 14:32:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b095b5fdb81a010c71f28df4b961977</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 14:32:46</sys_updated_on>
+            <value>Collection &amp; Operations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data Analytics</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 14:31:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1d8d39fdb81a010c71f28df4b9619ec</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 14:31:34</sys_updated_on>
+            <value>Data Analytics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Enterprise IT</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 14:31:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11e8d39fdb81a010c71f28df4b9619f3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 14:31:53</sys_updated_on>
+            <value>Enterprise IT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Information Assurance</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 14:31:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3b8d39fdb81a010c71f28df4b9619f2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 14:31:19</sys_updated_on>
+            <value>Information Assurance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>work_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mission Management</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 14:32:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86f8575fdb81a010c71f28df4b961933</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 14:32:14</sys_updated_on>
+            <value>Mission Management</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Company/Agency" max_length="40" name="x_174721_talent_ex_company_agency" sizeclass="2" text_index="true" type="collection">
+        <element display="true" label="Company Name" mandatory="true" max_length="40" name="company_name" type="string"/>
+        <element label="POC E-Mail" max_length="25" name="poc_1_e_mail" type="string"/>
+        <element label="POC First Name" max_length="25" name="poc_1_first_name" type="string"/>
+        <element label="POC Last Name" max_length="25" name="poc_1_last_name" type="string"/>
+        <element label="POC Phone" max_length="12" name="poc_1_phone" type="phone_number_e164"/>
+        <element label="POC E-Mail" max_length="25" name="poc_2_e_mail" type="string"/>
+        <element label="POC First Name" max_length="25" name="poc_2_first_name" type="string"/>
+        <element label="POC Last Name" max_length="25" name="poc_2_last_name" type="string"/>
+        <element label="POC Phone" max_length="12" name="poc_2_phone" type="phone_number_e164"/>
+        <element choice="1" label="Private or Public" mandatory="true" max_length="40" name="private_or_public" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Private" value="Private"/>
+                <element inactive_on_update="false" label="Public" value="Public"/>
+            </choice>
+        </element>
+    </element>
+</database>

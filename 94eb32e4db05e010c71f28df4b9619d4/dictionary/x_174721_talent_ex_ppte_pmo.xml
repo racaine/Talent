@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="PPTE PMO" max_length="40" name="x_174721_talent_ex_ppte_pmo" sizeclass="1" text_index="true" type="collection">
+        <element label="PMO POC e-Mail" max_length="35" name="pmo_poc_1_e_mail" type="string"/>
+        <element label="PMO POC FName" max_length="35" name="pmo_poc_1_fname" type="string"/>
+        <element label="PMO POC LName" max_length="35" name="pmo_poc_1_lname" type="string"/>
+        <element label="PMO POC Phone" max_length="40" name="pmo_poc_1_phone" type="phone_number_e164"/>
+    </element>
+</database>

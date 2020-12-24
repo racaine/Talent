@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Agency/Company Registration - Test Page - Container 1">b6f359f8dbd96410c71f28df4b9619b0</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>mcarnie</sys_created_by>
+        <sys_created_on>2020-12-22 20:41:37</sys_created_on>
+        <sys_id>72f359f8dbd96410c71f28df4b9619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sp_row_72f359f8dbd96410c71f28df4b9619b3</sys_update_name>
+        <sys_updated_by>mcarnie</sys_updated_by>
+        <sys_updated_on>2020-12-22 20:41:37</sys_updated_on>
+    </sp_row>
+</record_update>

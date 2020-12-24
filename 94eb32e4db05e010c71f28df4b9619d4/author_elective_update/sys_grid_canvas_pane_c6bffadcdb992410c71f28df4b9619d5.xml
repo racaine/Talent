@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Talent Exchange - New Tab">fc5f3adcdb992410c71f28df4b9619b1</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2020-12-21 10:15:22">4ebffadcdb992410c71f28df4b9619d3</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 15:15:22</sys_created_on>
+        <sys_id>c6bffadcdb992410c71f28df4b9619d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fc5f3adcdb992410c71f28df4b9619b1</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_c6bffadcdb992410c71f28df4b9619d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 15:15:22</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</application>
+        <file_path/>
+        <instance_id>3ab3de77db3fa3000b9d21c405961973</instance_id>
+        <instance_name>dev73981</instance_name>
+        <name>sys_grid_canvas_pane_c6bffadcdb992410c71f28df4b9619d5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Talent Exchange - New Tab">fc5f3adcdb992410c71f28df4b9619b1</grid_canvas><height>10</height><portal_widget display_value="Created 2020-12-21 10:15:22">4ebffadcdb992410c71f28df4b9619d3</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-21 15:15:22</sys_created_on><sys_id>c6bffadcdb992410c71f28df4b9619d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>fc5f3adcdb992410c71f28df4b9619b1</sys_name><sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package><sys_policy/><sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope><sys_update_name>sys_grid_canvas_pane_c6bffadcdb992410c71f28df4b9619d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-21 15:15:22</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-189676343</payload_hash>
+        <record_name>fc5f3adcdb992410c71f28df4b9619b1</record_name>
+        <reverted_from/>
+        <source>ad20fad0db992410c71f28df4b96195d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 15:15:22</sys_created_on>
+        <sys_id>4ebffadcdb992410c71f28df4b9619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17685de89ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 15:15:22</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>86bffadc6c992410db9a41229cd847d6</update_guid>
+        <update_guid_history>86bffadc6c992410db9a41229cd847d6:-189676343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 15:15:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>00283bd3d53449c4800a749acf193329</sys_id>
+        <sys_metadata>c6bffadcdb992410c71f28df4b9619d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fc5f3adcdb992410c71f28df4b9619b1</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_scope_delete display_value="">59e71091ac3c4738b158cd53c3376c89</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_c6bffadcdb992410c71f28df4b9619d5</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_c6bffadcdb992410c71f28df4b9619d5">4ebffadcdb992410c71f28df4b9619d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 15:15:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

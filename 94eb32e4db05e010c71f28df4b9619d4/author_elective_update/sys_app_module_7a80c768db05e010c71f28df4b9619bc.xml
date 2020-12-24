@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Talent Exchange">1ceb3ae4db05e010c71f28df4b9619fb</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Participant data</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_174721_talent_ex_participant_data</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_174721_talent_ex.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-09 23:41:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7a80c768db05e010c71f28df4b9619bc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>PPTE PMO </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sys_app_module_7a80c768db05e010c71f28df4b9619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 14:31:34</sys_updated_on>
+        <timeline_page/>
+        <title>PPTE PMO </title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</application>
+        <file_path/>
+        <instance_id>3ab3de77db3fa3000b9d21c405961973</instance_id>
+        <instance_name>dev73981</instance_name>
+        <name>sys_app_module_7a80c768db05e010c71f28df4b9619bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Talent Exchange">1ceb3ae4db05e010c71f28df4b9619fb</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Participant data</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_174721_talent_ex_participant_data</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_174721_talent_ex.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-09 23:41:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7a80c768db05e010c71f28df4b9619bc</sys_id><sys_mod_count>2</sys_mod_count><sys_name>PPTE PMO </sys_name><sys_overrides/><sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package><sys_policy/><sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope><sys_update_name>sys_app_module_7a80c768db05e010c71f28df4b9619bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-21 14:31:34</sys_updated_on><timeline_page/><title>PPTE PMO </title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1541688877</payload_hash>
+        <record_name>PPTE PMO </record_name>
+        <reverted_from/>
+        <source>ad20fad0db992410c71f28df4b96195d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 14:31:34</sys_created_on>
+        <sys_id>50b53258db992410c71f28df4b9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17685b66e1c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 14:31:34</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d8b53258a2992410c800ba2e2ae168d0</update_guid>
+        <update_guid_history>d8b53258a2992410c800ba2e2ae168d0:1541688877,be07fb55b2456410893ea32cd3e46296:1378601581,be804fa81f05e010655a6847d4a61105:750675869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="PPTE PMO ">60cb325cdb992410c71f28df4b96197f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 14:58:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1e304a1082d74890861e44eea3339a40</sys_id>
+        <sys_metadata>7a80c768db05e010c71f28df4b9619bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PPTE PMO </sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_scope_delete display_value="">59e71091ac3c4738b158cd53c3376c89</sys_scope_delete>
+        <sys_update_name>sys_app_module_7a80c768db05e010c71f28df4b9619bc</sys_update_name>
+        <sys_update_version display_value="sys_app_module_7a80c768db05e010c71f28df4b9619bc">50b53258db992410c71f28df4b9619d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 14:58:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

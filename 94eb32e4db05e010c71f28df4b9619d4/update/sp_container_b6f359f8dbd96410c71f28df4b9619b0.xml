@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Agency/Company Registration - Test Page - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="agency_company_registration">36f359f8dbd96410c71f28df4b9619ad</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>mcarnie</sys_created_by>
+        <sys_created_on>2020-12-22 20:41:37</sys_created_on>
+        <sys_id>b6f359f8dbd96410c71f28df4b9619b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agency/Company Registration - Test Page - Container 1</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sp_container_b6f359f8dbd96410c71f28df4b9619b0</sys_update_name>
+        <sys_updated_by>mcarnie</sys_updated_by>
+        <sys_updated_on>2020-12-22 20:41:37</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

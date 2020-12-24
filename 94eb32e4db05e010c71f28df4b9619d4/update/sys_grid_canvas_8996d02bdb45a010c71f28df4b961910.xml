@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Talent Exchange - New Tab">0196d02bdb45a010c71f28df4b961910</legacy_page>
+        <name>PA Talent Exchange - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 19:00:56</sys_created_on>
+        <sys_id>8996d02bdb45a010c71f28df4b961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Talent Exchange - New Tab</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sys_grid_canvas_8996d02bdb45a010c71f28df4b961910</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 19:00:56</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

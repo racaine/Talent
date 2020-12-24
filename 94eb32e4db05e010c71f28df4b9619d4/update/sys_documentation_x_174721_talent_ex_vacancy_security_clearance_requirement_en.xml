@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="security_clearance_requirement" label="Security Clearance Requirement" language="en" table="x_174721_talent_ex_vacancy">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>security_clearance_requirement</element>
+            <help/>
+            <hint/>
+            <label>Security Clearance Requirement</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <plural>Security Clearance Requirements</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 14:24:22</sys_created_on>
+            <sys_id>b9479f1fdb81a010c71f28df4b96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Security Clearance Requirement</sys_name>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_documentation_x_174721_talent_ex_vacancy_security_clearance_requirement_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 14:24:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

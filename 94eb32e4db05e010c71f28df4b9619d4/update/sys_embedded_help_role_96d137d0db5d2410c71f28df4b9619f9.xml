@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_174721_talent_ex.Talent PPTE PMO" name="x_174721_talent_ex.Talent PPTE PMO">b6517bd0db5d2410c71f28df4b961950</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 18:54:23</sys_created_on>
+        <sys_id>96d137d0db5d2410c71f28df4b9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b6517bd0db5d2410c71f28df4b961950</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sys_embedded_help_role_96d137d0db5d2410c71f28df4b9619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 18:54:23</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

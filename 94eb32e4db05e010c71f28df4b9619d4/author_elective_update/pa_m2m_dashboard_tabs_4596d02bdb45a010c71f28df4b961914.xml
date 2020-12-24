@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="Talent Exchange">218618e7db45a010c71f28df4b9619b1</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 19:00:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4596d02bdb45a010c71f28df4b961914</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>218618e7db45a010c71f28df4b9619b1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_4596d02bdb45a010c71f28df4b961914</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 19:00:56</sys_updated_on>
+        <tab display_value="Talent Exchange - New Tab">8596d02bdb45a010c71f28df4b961912</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</application>
+        <file_path/>
+        <instance_id>3ab3de77db3fa3000b9d21c405961973</instance_id>
+        <instance_name>dev73981</instance_name>
+        <name>pa_m2m_dashboard_tabs_4596d02bdb45a010c71f28df4b961914</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="Talent Exchange">218618e7db45a010c71f28df4b9619b1</dashboard><home>false</home><homepage/><order>1</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-18 19:00:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4596d02bdb45a010c71f28df4b961914</sys_id><sys_mod_count>0</sys_mod_count><sys_name>218618e7db45a010c71f28df4b9619b1</sys_name><sys_overrides/><sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package><sys_policy/><sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_4596d02bdb45a010c71f28df4b961914</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-18 19:00:56</sys_updated_on><tab display_value="Talent Exchange - New Tab">8596d02bdb45a010c71f28df4b961912</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>-1460185424</payload_hash>
+        <record_name>218618e7db45a010c71f28df4b9619b1</record_name>
+        <reverted_from/>
+        <source>cabb7717db05a010c71f28df4b9619f1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 19:00:56</sys_created_on>
+        <sys_id>8d96d02bdb45a010c71f28df4b961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1767739f9020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 19:00:56</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>c596d02b2445a010b5053b2ee52c4b15</update_guid>
+        <update_guid_history>c596d02b2445a010b5053b2ee52c4b15:-1460185424</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f4d6902bdb45a010c71f28df4b96198e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 19:02:00</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>5af9af8e68e84eaf8ab2559ec897b941</sys_id>
+        <sys_metadata>4596d02bdb45a010c71f28df4b961914</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>218618e7db45a010c71f28df4b9619b1</sys_name>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_scope_delete display_value="">59e71091ac3c4738b158cd53c3376c89</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_4596d02bdb45a010c71f28df4b961914</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_4596d02bdb45a010c71f28df4b961914">8d96d02bdb45a010c71f28df4b961915</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 19:02:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Talent Application" max_length="40" name="x_174721_talent_ex_talent_application" sizeclass="1" type="collection"/>
+</database>

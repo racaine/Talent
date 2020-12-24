@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="work_start_date" label="Work Start Date" language="en" table="x_174721_talent_ex_vacancy">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>work_start_date</element>
+            <help/>
+            <hint/>
+            <label>Work Start Date</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_vacancy</name>
+            <plural>Work Start Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 14:24:22</sys_created_on>
+            <sys_id>a5479f1fdb81a010c71f28df4b961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Work Start Date</sys_name>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_documentation_x_174721_talent_ex_vacancy_work_start_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 14:24:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

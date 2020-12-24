@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Points of Contact" section_id="06a18750dbd92410c71f28df4b961907" sys_domain="global" table="x_174721_talent_ex_vacancy" version="3" view="Application">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>position_poc1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-21 15:23:51</sys_created_on>
+            <sys_id>5aa18750dbd92410c71f28df4b961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Points of Contact" display_value="Points of Contact" name="x_174721_talent_ex_vacancy" sys_domain="global" view="c6a14750dbd92410c71f28df4b961978">06a18750dbd92410c71f28df4b961907</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-21 15:23:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>position_poc1_unclassified_phone</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-21 15:23:51</sys_created_on>
+            <sys_id>daa18750dbd92410c71f28df4b961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Points of Contact" display_value="Points of Contact" name="x_174721_talent_ex_vacancy" sys_domain="global" view="c6a14750dbd92410c71f28df4b961978">06a18750dbd92410c71f28df4b961907</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-21 15:23:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-21 15:23:51</sys_created_on>
+            <sys_id>5ea18750dbd92410c71f28df4b961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Points of Contact" display_value="Points of Contact" name="x_174721_talent_ex_vacancy" sys_domain="global" view="c6a14750dbd92410c71f28df4b961978">06a18750dbd92410c71f28df4b961907</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-21 15:23:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>position_poc1_e_mail</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-21 15:23:51</sys_created_on>
+            <sys_id>dea18750dbd92410c71f28df4b961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Points of Contact" display_value="Points of Contact" name="x_174721_talent_ex_vacancy" sys_domain="global" view="c6a14750dbd92410c71f28df4b961978">06a18750dbd92410c71f28df4b961907</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-21 15:23:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Points of Contact</caption>
+            <header>false</header>
+            <name>x_174721_talent_ex_vacancy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-21 15:23:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06a18750dbd92410c71f28df4b961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_174721_talent_ex_vacancy</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_ui_section_06a18750dbd92410c71f28df4b961907</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-21 15:23:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Application" name="Application">c6a14750dbd92410c71f28df4b961978</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

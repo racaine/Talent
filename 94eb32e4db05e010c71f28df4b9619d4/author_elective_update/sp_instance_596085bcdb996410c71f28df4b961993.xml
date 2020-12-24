@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">bf0045bcdb996410c71f28df4b961905</sp_column>
+        <sp_widget display_value="Hello World 3">403fd3b35b3112000d7ec7ad31f91ac2</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>mcarnie</sys_created_by>
+        <sys_created_on>2020-12-22 19:16:02</sys_created_on>
+        <sys_id>596085bcdb996410c71f28df4b961993</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_update_name>sp_instance_596085bcdb996410c71f28df4b961993</sys_update_name>
+        <sys_updated_by>mcarnie</sys_updated_by>
+        <sys_updated_on>2020-12-22 19:16:25</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=596085bcdb996410c71f28df4b961993"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</application>
+        <file_path/>
+        <instance_id>3ab3de77db3fa3000b9d21c405961973</instance_id>
+        <instance_name>dev73981</instance_name>
+        <name>sp_instance_596085bcdb996410c71f28df4b961993</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">bf0045bcdb996410c71f28df4b961905</sp_column><sp_widget display_value="Hello World 3">403fd3b35b3112000d7ec7ad31f91ac2</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>mcarnie</sys_created_by><sys_created_on>2020-12-22 19:16:02</sys_created_on><sys_id>596085bcdb996410c71f28df4b961993</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package><sys_policy/><sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope><sys_update_name>sp_instance_596085bcdb996410c71f28df4b961993</sys_update_name><sys_updated_by>mcarnie</sys_updated_by><sys_updated_on>2020-12-22 19:16:25</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=596085bcdb996410c71f28df4b961993"/></record_update>]]></payload>
+        <payload_hash>-582579370</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2c51e074db596410c71f28df4b961935</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mcarnie</sys_created_by>
+        <sys_created_on>2020-12-22 19:16:25</sys_created_on>
+        <sys_id>3a70c9bcdb996410c71f28df4b961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1768be1947b0000001</sys_recorded_at>
+        <sys_updated_by>mcarnie</sys_updated_by>
+        <sys_updated_on>2020-12-22 19:16:25</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>b270c9bca49964109a5fdd715cd8d193</update_guid>
+        <update_guid_history>b270c9bca49964109a5fdd715cd8d193:-582579370,d16085bc449964105985c5e04967cb95:-1171513897</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">fd9149bcdb996410c71f28df4b961913</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mcarnie</sys_created_by>
+        <sys_created_on>2020-12-22 19:21:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>1da608434a94486e8376e6d3b0af4a61</sys_id>
+        <sys_metadata>596085bcdb996410c71f28df4b961993</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+        <sys_scope_delete display_value="">59e71091ac3c4738b158cd53c3376c89</sys_scope_delete>
+        <sys_update_name>sp_instance_596085bcdb996410c71f28df4b961993</sys_update_name>
+        <sys_update_version display_value="sp_instance_596085bcdb996410c71f28df4b961993">3a70c9bcdb996410c71f28df4b961993</sys_update_version>
+        <sys_updated_by>mcarnie</sys_updated_by>
+        <sys_updated_on>2020-12-22 19:21:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

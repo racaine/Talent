@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Candidate Skills" section_id="bed587acdb05e010c71f28df4b961988" sys_domain="global" table="x_174721_talent_ex_participant_data" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>skill_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-21 13:56:28</sys_created_on>
+            <sys_id>d2ade6d0db992410c71f28df4b96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Skills" display_value="Candidate Skills" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">bed587acdb05e010c71f28df4b961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-21 13:56:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>skill_2</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-21 13:56:28</sys_created_on>
+            <sys_id>9aade6d0db992410c71f28df4b96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Candidate Skills" display_value="Candidate Skills" name="x_174721_talent_ex_participant_data" sys_domain="global" view="Default view">bed587acdb05e010c71f28df4b961988</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-21 13:56:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Candidate Skills</caption>
+            <header>false</header>
+            <name>x_174721_talent_ex_participant_data</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-10 00:04:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bed587acdb05e010c71f28df4b961988</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_174721_talent_ex_participant_data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_ui_section_bed587acdb05e010c71f28df4b961988</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 16:43:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

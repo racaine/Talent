@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="private_or_public" table="x_174721_talent_ex_company_agency" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>private_or_public</element>
+            <name>x_174721_talent_ex_company_agency</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 17:58:49</sys_created_on>
+            <sys_id>475848afdb05a010c71f28df4b961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>private_or_public</sys_name>
+            <sys_package display_value="Talent Exchange" source="x_174721_talent_ex">94eb32e4db05e010c71f28df4b9619d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Talent Exchange">94eb32e4db05e010c71f28df4b9619d4</sys_scope>
+            <sys_update_name>sys_choice_x_174721_talent_ex_company_agency_private_or_public</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 17:58:49</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>private_or_public</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Private</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_company_agency</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 17:59:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f58486fdb05a010c71f28df4b96191a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 17:59:07</sys_updated_on>
+            <value>Private</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>private_or_public</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Public</label>
+            <language>en</language>
+            <name>x_174721_talent_ex_company_agency</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-18 17:58:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb48842fdb05a010c71f28df4b9619ca</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-18 17:58:56</sys_updated_on>
+            <value>Public</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
